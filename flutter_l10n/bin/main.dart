@@ -10,7 +10,7 @@ const String sourceKey = 'source';
 const String sourceDefault = './res';
 
 const String outputKey = 'output';
-const String outputDefault = './lib/src/generated';
+const String outputDefault = './lib/generated';
 
 const String watchKey = 'watch';
 const bool watchDefault = false;
